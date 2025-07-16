@@ -10,3 +10,4 @@ elif unit.upper () == "F":
     print(f"Result: {result}°C")
 else:
     result = "Invalid output"
+
