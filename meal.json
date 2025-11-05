@@ -1,0 +1,212 @@
+{
+  "Breakfast": [
+    {
+      "name": "Tapsilog",
+      "link": "https://panlasangpinoy.com/tapsilog-recipe/",
+      "calories": 600,
+      "protein": 35,
+      "carbs": 45,
+      "fat": 25
+    },
+    {
+      "name": "Tocsilog",
+      "link": "https://panlasangpinoy.com/tosilog-recipe/",
+      "calories": 550,
+      "protein": 30,
+      "carbs": 50,
+      "fat": 20
+    },
+    {
+      "name": "Tortang Talong",
+      "link": "https://panlasangpinoy.com/filipino-vegetable-food-eggplant-omelet-tortang-talong-recipe/",
+      "calories": 350,
+      "protein": 15,
+      "carbs": 20,
+      "fat": 20
+    },
+    {
+      "name": "Champorado",
+      "link": "https://panlasangpinoy.com/easy-champorado-recipe/",
+      "calories": 400,
+      "protein": 8,
+      "carbs": 70,
+      "fat": 10
+    },
+    {
+      "name": "Longganisa Fried Rice",
+      "link": "https://panlasangpinoy.com/special-longanisa-fried-rice-recipe/#wprm-recipe-container-48110",
+      "calories": 700,
+      "protein": 28,
+      "carbs": 65,
+      "fat": 35
+    }
+  ],
+  "Lunch": [
+    {
+      "name": "Pork Adobo",
+      "link": "https://panlasangpinoy.com/filipino-food-pork-adobo-recipe/",
+      "calories": 500,
+      "protein": 35,
+      "carbs": 5,
+      "fat": 35
+    },
+    {
+      "name": "Pork Sinigang",
+      "link": "https://panlasangpinoy.com/pork-sinigang-na-baboy-recipe/",
+      "calories": 420,
+      "protein": 30,
+      "carbs": 10,
+      "fat": 25
+    },
+    {
+      "name": "Chicken Tinola",
+      "link": "https://panlasangpinoy.com/chicken-tinola/",
+      "calories": 350,
+      "protein": 32,
+      "carbs": 8,
+      "fat": 18
+    },
+    {
+      "name": "Beef Kaldereta",
+      "link": "https://panlasangpinoy.com/beef-kaldereta/",
+      "calories": 600,
+      "protein": 40,
+      "carbs": 15,
+      "fat": 40
+    },
+    {
+      "name": "Pork Menudo",
+      "link": "https://panlasangpinoy.com/pork-menudo-recipe/",
+      "calories": 480,
+      "protein": 28,
+      "carbs": 20,
+      "fat": 30
+    }
+  ],
+  "Dinner": [
+    {
+      "name": "Inihaw na Bangus",
+      "link": "https://panlasangpinoy.com/inihaw-na-bangus-recipe/",
+      "calories": 420,
+      "protein": 35,
+      "carbs": 5,
+      "fat": 25
+    },
+    {
+      "name": "Chicken Afritada",
+      "link": "https://panlasangpinoy.com/basic-chicken-afritada/",
+      "calories": 500,
+      "protein": 30,
+      "carbs": 20,
+      "fat": 28
+    },
+    {
+      "name": "Pork Giniling",
+      "link": "https://panlasangpinoy.com/ground-pork-giniling-recipe/",
+      "calories": 480,
+      "protein": 25,
+      "carbs": 15,
+      "fat": 32
+    },
+    {
+      "name": "Laing",
+      "link": "https://panlasangpinoy.com/laing-recipe/",
+      "calories": 400,
+      "protein": 10,
+      "carbs": 15,
+      "fat": 30
+    },
+    {
+      "name": "Pinakbet",
+      "link": "https://panlasangpinoy.com/pinakbet-tagalog-recipe-knr-sc/",
+      "calories": 250,
+      "protein": 10,
+      "carbs": 20,
+      "fat": 10
+    }
+  ],
+  "Snacks": [
+    {
+      "name": "Cheesy Lumpia",
+      "link": "https://panlasangpinoy.com/cheesy-lumpia/#wprm-recipe-container-82193",
+      "calories": 320,
+      "protein": 12,
+      "carbs": 25,
+      "fat": 18
+    },
+    {
+      "name": "Loaded Nachos with Corned Beef",
+      "link": "https://panlasangpinoy.com/loaded-nachos-with-corned-beef/#wprm-recipe-container-78141",
+      "calories": 450,
+      "protein": 20,
+      "carbs": 40,
+      "fat": 25
+    },
+    {
+      "name": "Cheesy Onion Rings",
+      "link": "https://panlasangpinoy.com/cheesy-onion-rings/",
+      "calories": 380,
+      "protein": 8,
+      "carbs": 35,
+      "fat": 20
+    },
+    {
+      "name": "Pork Siomai",
+      "link": "https://panlasangpinoy.com/pork-siomai-recipe/",
+      "calories": 300,
+      "protein": 18,
+      "carbs": 15,
+      "fat": 18
+    },
+    {
+      "name": "Tuna Salad Over Crackers",
+      "link": "https://panlasangpinoy.com/tuna-salad-over-crackers/",
+      "calories": 280,
+      "protein": 22,
+      "carbs": 10,
+      "fat": 15
+    }
+  ],
+  "Other Meals": [
+    {
+      "name": "Japanese Siomai",
+      "link": "https://panlasangpinoy.com/japanese-shumai/",
+      "calories": 270,
+      "protein": 15,
+      "carbs": 10,
+      "fat": 18
+    },
+    {
+      "name": "Crispy Cabbage Rolls",
+      "link": "https://panlasangpinoy.com/crispy-cabbage-rolls/",
+      "calories": 320,
+      "protein": 12,
+      "carbs": 25,
+      "fat": 18
+    },
+    {
+      "name": "Ginisang Sitaw",
+      "link": "https://panlasangpinoy.com/ginisang-sitaw-with-bell-pepper/",
+      "calories": 280,
+      "protein": 10,
+      "carbs": 20,
+      "fat": 15
+    },
+    {
+      "name": "Garlic Mushroom",
+      "link": "https://panlasangpinoy.com/garlic-mushroom/",
+      "calories": 200,
+      "protein": 8,
+      "carbs": 10,
+      "fat": 12
+    },
+    {
+      "name": "Sarciadong Pechay",
+      "link": "https://panlasangpinoy.com/sarciadong-pechay/",
+      "calories": 240,
+      "protein": 10,
+      "carbs": 15,
+      "fat": 12
+    }
+  ]
+}
